@@ -1,7 +1,7 @@
 # [JavaScript Tetris](https://hyojunm.github.io/tetris/)
-<img src="img/tetris.jpg" width="50%" />
-
 A remake of the *Tetris* game using the `HTML5 canvas` and `JavaScript (jQuery)`.
+
+<img src="img/tetris.jpg" width="50%" />
 
 ## Controls
 - <kbd>&#8594;</kbd> : Move right
