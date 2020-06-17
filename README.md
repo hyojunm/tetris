@@ -1,4 +1,4 @@
-# [JavaScript Tetris](https://hyojunm.github.io/tetris/)
+# JavaScript Tetris
 A remake of the *Tetris* game using the `HTML5 canvas` and `JavaScript (jQuery)`.
 
 <img src="img/tetris.jpg" width="50%" />
